@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "893291248371",
+    "firebase_url": "https://gallery-lab-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "gallery-lab",
+    "storage_bucket": "gallery-lab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893291248371:android:d02616aac5221644399586",
+        "android_client_info": {
+          "package_name": "com.example.gallery_lab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893291248371-90ebv0lbv964sauft291r3p9a461gqsf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf0uwXd0fhgnQ_JmIctaVeMAOJNTp4ru0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893291248371-90ebv0lbv964sauft291r3p9a461gqsf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
